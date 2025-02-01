@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Moamen!<br>👩🏻‍💻 An undergraduate Computer Engineer sharing my journey and projects in tech.<br>👩🏻‍🎓 Studying Computer Engineering at the The Arab Academy for Science & Technology, a regional university in Egypt.<br>💭 Currently learning Software Development!
+👋 Hi, I'm Moamen!
+<br>👩🏻‍💻 An undergraduate Computer Engineer sharing my journey and projects in tech.<br>👩🏻‍🎓 Studying Computer Engineering at the The Arab Academy for Science & Technology, a regional university in Egypt.<br>💭 Currently learning Software Development!
 
 
 ## 🌐 Socials:
