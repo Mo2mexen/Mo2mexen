@@ -2,7 +2,7 @@
 
 👩🏻‍💻 An undergraduate Computer Engineer sharing my journey and projects in tech.<br>
 👩🏻‍🎓 Studying Computer Engineering at the The Arab Academy for Science & Technology, a regional university in Egypt.<br>
-💭 Currently learning Software Development!
+💭 Currently learning Software Engineering!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moameneslamm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meslam) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@moameneslamm) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/moameneslamm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=moemeneslamsalah@gmail.com) 
