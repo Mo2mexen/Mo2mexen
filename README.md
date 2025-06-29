@@ -2,7 +2,7 @@
 
 👨🏻‍💻 An undergraduate Computer Engineer sharing my journey and projects in tech.<br>
 🎓 Studying Computer Engineering at The Arab Academy for Science & Technology, a regional university in Egypt.<br>
-💭 Currently Leveraging My Skills & Experience in Software Engineering!
+💭 Currently Leveraging My Skills & Experience in Software Engineering & various tech fields!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meslam) 
