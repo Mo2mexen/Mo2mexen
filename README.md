@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Moamen!</h1>
 
 🎓  3rd-year Computer Engineering at <strong>The Arab Academy for Science & Technology</strong>, a regional university in Egypt.<br>
-💼 Currently interning as a Backend Developer at <strong>Valify Solutions Egypt</strong>.<br>
+💼 Currently interning as a Backend Developer at <strong>Valify Solutions</strong>.<br>
 💭 Seeking to leverage my skills & experience in Software Engineering and various tech fields!
 
 ## 🌐 Socials:
