@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hey there, I'm Moamen!</h1>
-
 🎓  3rd-year Computer Engineering at <strong>The Arab Academy for Science & Technology</strong>, a regional university in Egypt.<br>
 💼 Currently interning as a Backend Developer at <strong>Valify Solutions</strong>.<br>
 💭 Seeking to leverage my skills & experience in Software Engineering and various tech fields!
@@ -19,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![DRF](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
