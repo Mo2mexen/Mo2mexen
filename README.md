@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Moamen!</h1>
 🎓  3rd-year Computer Engineering at <strong>The Arab Academy for Science & Technology</strong>, a regional university in Egypt.<br>
-💼 Currently interning as a Backend Developer at <strong>Valify Solutions</strong>.<br>
-💭 Seeking to leverage my skills & experience in Software Engineering and various tech fields!
+💼 Ex-Backend intern @ <strong>Valify Solutions</strong>.<br>
+💭 Leveraging my skills & experience in Software Engineering and various tech fields!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meslam) 
